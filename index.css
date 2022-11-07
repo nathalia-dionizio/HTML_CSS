@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+html {
+    background-color: antiquewhite;
+}
+.footer {
+    margin-top: 40px;
+    margin-bottom: 15px;
+    background-color: rgba(220, 20, 60, 0.866);
+    
+}
+.redes-sociais {
+    display : inline;
+    
+}
+
+.footer p {
+    font-size: small 7px;
+    color: rgba(255, 255, 255, 0.99);
+    padding-top: 10px;
+    margin-left: 45%;
+    align-items: center;
+}
+.icon-facebook {
+    margin-left: 45%;
+    width: 4vw;
+    height: 7vh;
+    padding-bottom: 10px;
+    border-radius: 6px;
+}
+.icon-linkedin {
+    width: 4vw;
+    height: 7vh;
+    border-radius: 6px;
+    padding-bottom: 10px;
+}
+.icon-twitter {
+    width: 4vw;
+    height: 7vh;
+    border-radius: 6px;
+    padding-bottom: 10px;
+}
+
+.header {
+    background-color: rgba(220, 20, 60, 0.866);
+    padding: 10px;
+   
+}
+.header h1 {  
+  font-size: large;
+  color: rgba(255, 255, 255, 0.99);
+  margin-left: 40%;
+}
+
+.header p {
+    font-size: small;
+    margin-left: 41%;
+    color: beige;
+    margin-bottom: 10px;
+}
+
+.links a {
+    padding-left: 10%;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: coral;   
+}
+
+.link-pagina-inicial:hover {
+    color: white;
+   }
+.link-pagina-adicionar-produto:hover {
+    color: white;
+   }
+.link-pagina-estoque:hover {
+    color: white;
+   }
+.link-pagina-funcionarios:hover {
+    color: white;
+   }
+
+.body {
+    margin-top: 70px;
+}
+
+.body p {
+    margin-left: 30%;
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.icon-carrosel {
+    padding-top: 40px;
+    height: 300px;
+    width: 100%;
+}
+
+.segunda-frase {
+    padding-top: 40px;
+}

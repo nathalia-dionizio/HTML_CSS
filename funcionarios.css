@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+html {
+    background-color: antiquewhite;
+}
+
+.header {
+    background-color: rgba(220, 20, 60, 0.866);
+    padding: 10px;
+   
+}
+
+.header h2 {
+    font-size: large;
+    color: rgba(255, 255, 255, 0.99);
+    margin-left: 45%;
+}
+
+.titulo-body {
+    margin-top: 30px;
+    margin-left: 42%;
+    margin-bottom: 40px;
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.links a {
+    padding-left: 10%;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: coral;   
+}
+
+.lista {
+    margin-left: 41%;
+}
